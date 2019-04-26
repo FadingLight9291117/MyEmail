@@ -1,0 +1,33 @@
+[
+    {
+        "from": "fadinglight9291117@126.com",
+        "SendDate": "Mar 15, 2019, 1:46:07 PM",
+        "subject": "你好",
+        "content": "这是我发给你的"
+    },
+    {
+        "from": "fadinglight9291117@126.com",
+        "SendDate": "Mar 15, 2019, 1:45:05 PM",
+        "subject": "你好",
+        "content": "这是我给你的"
+    },
+    {
+        "name": "Microsoft Outlook",
+        "from": "freeman9291117@163.com",
+        "SendDate": "Mar 14, 2019, 3:00:31 PM",
+        "subject": "Microsoft Outlook 测试消息",
+        "content": "此邮件为多附件邮件，暂时无法解析！"
+    },
+    {
+        "from": "freeman9291117@163.com",
+        "SendDate": "Mar 10, 2019, 7:56:29 PM",
+        "subject": "我的",
+        "content": "it`s me\r\n"
+    },
+    {
+        "from": "fadinglight9291117@126.com",
+        "SendDate": "Mar 10, 2019, 7:51:01 PM",
+        "subject": "你好",
+        "content": "hello world\r\n"
+    }
+]
